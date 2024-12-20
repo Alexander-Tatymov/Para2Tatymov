@@ -1,0 +1,14 @@
+﻿<Window x:Class="Pract_2_Iwanov.Okno1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pract_2_Iwanov"
+        mc:Ignorable="d"
+        Title="Okno1" Height="450" Width="800">
+    <Grid x:Name="Grid1">
+        <Button Content="Вернуться обратно" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="60" Width="120" Click="Button_Click"/>
+        <Button x:Name="Knopka" Content="Нажми меня!" HorizontalAlignment="Center" Margin="0,40,0,0" VerticalAlignment="Top" Height="56" Width="111" Click="Knopka_Click"/>
+
+    </Grid>
+</Window>

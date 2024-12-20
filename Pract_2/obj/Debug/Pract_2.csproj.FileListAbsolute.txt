@@ -1,0 +1,6 @@
+C:\Users\Desktop_01\Desktop\алгоритмы\Pract 2 3 okna\Pract_2\Pract_2\obj\Debug\Pract_2.csproj.AssemblyReference.cache
+C:\Users\Desktop_01\Desktop\алгоритмы\Pract 2 3 okna\Pract_2\Pract_2\obj\Debug\MainWindow.g.cs
+C:\Users\Desktop_01\Desktop\алгоритмы\Pract 2 3 okna\Pract_2\Pract_2\obj\Debug\App.g.cs
+C:\Users\Desktop_01\Desktop\алгоритмы\Pract 2 3 okna\Pract_2\Pract_2\obj\Debug\Pract_2_MarkupCompile.cache
+C:\Users\Desktop_01\Desktop\алгоритмы\Pract 2 3 okna\Pract_2\Pract_2\obj\Debug\Pract_2_MarkupCompile.lref
+C:\Users\Desktop_01\Desktop\алгоритмы\Pract 2 3 okna\Pract_2\Pract_2\obj\Debug\Window1.g.cs
